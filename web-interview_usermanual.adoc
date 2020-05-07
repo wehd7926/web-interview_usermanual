@@ -20,7 +20,7 @@
 :stylesheet: asciidoctor.css
 :experimental:
 
-= WEB面接参加の手引き（2021新規学卒者用）
+= WEB面接参加の手引き
 
 == 事前準備
 
